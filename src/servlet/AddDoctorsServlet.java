@@ -114,8 +114,6 @@ public class AddDoctorsServlet extends HttpServlet {
                 }
 
 
-
-
                 resp.sendRedirect(cp + "/displayDoctors");
 
         }

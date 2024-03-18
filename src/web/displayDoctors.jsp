@@ -33,5 +33,8 @@
     </c:forEach>
 </tbody>
 <table>
+<br>
+<h2><a href="adddoctors">Add Doctor here.</a></h2>
+
 </body>
 </html>
