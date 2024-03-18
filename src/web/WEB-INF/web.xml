@@ -7,11 +7,15 @@
 
     <servlet>
         <servlet-name>AddDoctorsServlet</servlet-name>
-        <servlet-class>AddDoctorsServlet</servlet-class>
+        <servlet-class>servlet.AddDoctorsServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
         <servlet-name>AddDoctorsServlet</servlet-name>
         <url-pattern>/adddoctors</url-pattern>
+        <url-pattern>/displayDoctors</url-pattern>
     </servlet-mapping>
+
+
 </web-app>
+
